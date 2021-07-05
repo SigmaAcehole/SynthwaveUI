@@ -8,4 +8,4 @@ https://www.ni.com/en-in/support/downloads/software-products/download.labview-ru
 3) Click on the run button on the top left corner. 
 4) Now you can adjust the volume, change the octaves and waveform according to how you want to play it.
 
-![Screenshot 2021-07-05 131039](https://user-images.githubusercontent.com/61357812/124435275-743c3a80-dd92-11eb-823d-7a96af1fa165.png)
+![piano](https://user-images.githubusercontent.com/61357812/124439513-2413a700-dd97-11eb-9fa6-4d75e9f3cb30.png)
