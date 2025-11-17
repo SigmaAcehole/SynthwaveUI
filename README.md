@@ -1,5 +1,5 @@
 # SynthwaveUI
-A virtual piano synthesizer with a 1980s retro look made on LabVIEW.
+A virtual piano synthesizer with a 1980s retro look made on LabVIEW. The piano keys are mapped to keyboard keys.
 
 ![piano](https://user-images.githubusercontent.com/61357812/124439513-2413a700-dd97-11eb-9fa6-4d75e9f3cb30.png)
 
